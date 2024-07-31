@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Documents/GitHub/personal_projects/cross-selling-groceries/automation_config"
+		},
+		{
+			"path": "../../../../Documents/GitHub/personal_projects/cross-selling-groceries/automation_config/venv"
+		},
+		{
+			"path": "../../../../Documents/GitHub/personal_projects/cross-selling-groceries/cs"
+		},
+		{
+			"path": "../../../../Documents/GitHub/personal_projects/cross-selling-groceries/cs/__pycache__"
+		}
+	],
+	"settings": {}
+}
